@@ -49,3 +49,8 @@ tl.from(".one",{
 //     delay:0.5,
 //     stagger:0.2
 // })
+
+function add(){
+
+    return a+b
+}
