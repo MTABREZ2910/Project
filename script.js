@@ -50,7 +50,3 @@ tl.from(".one",{
 //     stagger:0.2
 // })
 
-function add(){
-
-    return a+b
-}
